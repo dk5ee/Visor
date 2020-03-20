@@ -1,0 +1,10 @@
+Acest document reprezinta un proiect de voluntariat si opensource 
+folosit de comunitatea de makeri viziere.ro in producerea de masti 
+de protectie.
+ 
+Nu se permite folosirea acestor planuri in scopuri comerciale.
+
+Continutul acestei arhive este pus la dispozitie sub Licenta Creative
+Commons Atribuire-Necomercial-Distribuire în Conditii Identice 
+4.0 International.
+

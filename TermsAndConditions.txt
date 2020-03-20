@@ -1,0 +1,9 @@
+This document represents a volunteering and opensource project
+used by the makiere community viziere.ro in the production of masks
+protective.
+ 
+The use of these plans for commercial purposes is not permitted.
+
+The contents of this archive are made available under the Creative License
+Attribution-Noncommercial-ShareAlike Commons under identical conditions
+4.0 International.
